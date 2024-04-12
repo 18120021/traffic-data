@@ -1,0 +1,6 @@
+Metric,Value
+Accuracy,0.985265225933202
+Precision,0.985320834033286
+Recall,0.985265225933202
+F1-score,0.985255655435268
+Mean Cross-Validation Accuracy,0.943987250072443
